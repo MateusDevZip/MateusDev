@@ -1,90 +1,81 @@
-<h2 align="left">Hi, I'm Mateus Silva! 👋</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=dd0afc"/>
 
-###
+<div width="center">
+  <p>システムアナリスト</p>
+</div>
 
-<h3 align="left">Data Science and Software Engineering Academic at Uniasselvi</h3>
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&lines=Hello!+My+name+is+Kamilly;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG"/>
+</div>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&color=dd0afc&width=900&size=30&center=true&lines=Hello!+My+name+is+Kamilly;I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;I'm+also+a+Designer;Be+welcome!" alt="Typing SVG" />
+</div>
 
-###
-
-<p align="left">I'm a passionate student and developer, constantly exploring new technologies and improving my skills.</p>
-
-###
+<br><br>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=MateusdaSilvaP&locale=en&mode=weekly&theme=ocean_dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MateusdaSilvaP&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false" height="150" alt="languages graph"  />
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kamillyvm&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kamillyvm&theme=jolly) | ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kamillyvm&theme=jolly&utcOffset=8) |
+| :--: | :--: | :--: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kamillyvm&theme=jolly&hide_border=true) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=kamillyvm&theme=jolly&hide_border=true)](https://git.io/streak-stats) |
+| :--: | :--: |
+
 </div>
 
-###
-
-<h3 align="left">🌱 I'm currently learning:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="50" alt="r logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo"  />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-</div>
-
-###
-
-<h3 align="left">📚Currently studying these frameworks:</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
-</div>
-
-
-###
+<img align="right" height="470" src="https://imgur.com/QrPnu3W.png" />
 
 <div align="center">
-  <a href="https://www.instagram.com/_mattw_s/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:matdasilvapinto@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/mateus-da-silva-pinto-b93182169/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://wa.me/55996258766" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
-  </a>
-</div>
 
- <div align="center" >
-   
-![Ashutosh's github activity graph](https://contribution.catsjuice.com/_/MateusdaSilvaP?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=purple&dark=true)
-
+[![Gmail](https://img.shields.io/badge/Gmail-291b3e?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:kamillymedino2@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-291b3e?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/kamyzmedino/?next=%2F)
+[![Reddit](https://img.shields.io/badge/Reddit-291b3e?style=for-the-badge&logo=Reddit&logoColor=fff)](https://www.reddit.com/user/kamomiila/)
+[![Twitch](https://img.shields.io/badge/Twitch-291b3e?style=for-the-badge&logo=twitch&logoColor=fff)](https://www.twitch.tv/kamomiila)
+[![Discord](https://img.shields.io/badge/Discord-291b3e?style=for-the-badge&logo=Discord&logoColor=fff)](https://discord.com/invite/THnDtr3B)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/5584988964920)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/kamilly-medino-b72a3b33a/)
 
 </div>
 
+<div align="center" style="display: inline_block"><br>
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+</div>
 
+<br><br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="100">
+</div>
 
+<br>
 
+<div align="center">
+  <p align="center">
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fkamillyvm&s=30&c=ff64da&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" />
+  </p>
+</div>
 
+<div align="center">
+  <p align="center">
+    <samp>
+      ♡ <a href="https://rentry.co/kamillymedino">rentry</a> ⋅  
+      <a href="https://linktr.ee/kamillyvm1">linktr.ee</a> ⋅  
+      <a href="https://bykamillyvm.carrd.co/">carrd.co</a> ⋅  
+      <a href="https://cyber-buttercup-43c.notion.site/My-universe-191f307c822780fba1dae4c8a8fc6069">notion</a> ♡
+    </samp>
+  </p>
+</div>
 
+<br><br>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=dd0afc&height=110&section=footer"/>
