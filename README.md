@@ -19,7 +19,7 @@
 
 </div>
 
-<img align="right" height="470" src="https://imgur.com/QrPnu3W.png" />
+<img align="right" height="400" src="https://imgur.com/QrPnu3W.png" />
 
 <div align="center">
 
