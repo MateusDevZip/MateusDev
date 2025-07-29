@@ -29,22 +29,60 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-291b3e?style=for-the-badge&logo=whatsapp&logoColor=fff)](https://wa.me/55996258766)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-291b3e?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/mateus-da-silva-pinto-b93182169)
 
+## 🚀 Web Development
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,html,css,tailwind,bootstrap,vite,php" />
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CPP.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/JavaScript.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/HTML.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/CSS.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Bootstrap.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/GameMakerStudio.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/PostgreSQL-Dark.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Arduino.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Git.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Photoshop.svg" />
-  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Figma-Dark.svg" />
+---
+
+## 🧠 Languages & Frameworks
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,dart,flutter,angular" />
 </div>
+
+---
+
+## 🗄️ Databases
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb,dynamodb,supabase,firebase" />
+</div>
+
+---
+
+## ☁️ Cloud & DevOps
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,cloudflare" />
+</div>
+
+---
+
+## 🧰 Tools & Environments
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,replit,postman,anaconda,linux,redhat" />
+</div>
+
+---
+
+## 🌐 CMS & Web Platforms
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=wordpress" />
+</div>
+
+---
+
+## 🎮 Game Engines & AI
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=godot,ai" />
+</div>
+
 
 <br><br>
 
